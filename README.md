@@ -46,5 +46,3 @@ Start the Client
 cd client
 npm start
 ```
-
-

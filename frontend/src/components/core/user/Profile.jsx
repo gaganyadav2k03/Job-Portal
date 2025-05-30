@@ -2,8 +2,8 @@ import { useState } from "react";
 
 const Profile = () => {
   const [user, setUser] = useState({
-    fullName: "Ranjan Kumar Chauhan",
-    email: "ranjan@example.com",
+    fullName: "Gagan Yadav",
+    email: "gagan@example.com",
     contact: "9876543210",
     role: "jobseeker", // or "employer"
     company: "Numetry Technologies",

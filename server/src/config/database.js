@@ -5,7 +5,7 @@ const DB_NAME = "Job-Portal";
 const connectDB = async () => {
   try {
     const connectionInstance = await mongoose.connect(
-     `mongodb+srv://gaganyadav2k03:thegaganyadav840%40@pr01.78r3r.mongodb.net/`
+     `mongodb+srv://gaganyadav2k03:_______________@pr01.78r3r.mongodb.net/`
     );
 
     console.log(
